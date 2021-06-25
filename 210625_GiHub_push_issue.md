@@ -1,6 +1,4 @@
-##  **발생 이슈**
-
-![img](210624_GiHub_push_issue.assets/Untitled.png)
+![image-20210625215605621](210625_GiHub_push_issue.assets/image-20210625215605621.png)
 
 - git push를 하면 아무 일도 일어나지 않고 진행되지 않는 현상
 
@@ -12,9 +10,7 @@
 
 - CTRL + ALT + DELETE 누르셔서 작업 관리자로 이동 후에 쭉  git-credential-manager-core 프로세스가 떠있을 강제로 작업 종료 누르면 로그인 창이 나옴
 
-![img](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F515e8ad1-76fe-4b23-99f0-f3f3a151aef0%2FUntitled.png?table=block&id=d561c138-d2df-4b8c-ae5b-2e4f080f8c26&spaceId=daa2d103-3ecd-4519-8c30-4f55e74c7ef4&width=1590&userId=a2faf281-5047-4da0-aa28-a265725d18ac&cache=v2)
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/515e8ad1-76fe-4b23-99f0-f3f3a151aef0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/515e8ad1-76fe-4b23-99f0-f3f3a151aef0/Untitled.png)
+![image-20210625215705553](210625_GiHub_push_issue.assets/image-20210625215705553.png)
 
 ## **해결책 2**
 
