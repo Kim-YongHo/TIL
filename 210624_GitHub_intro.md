@@ -6,13 +6,14 @@
 
 2. Github repository 생성
 
-   ![img](210624_GitHub_intro.assets/image-20210623170259834.png)
+   ![image-20210626162128000](TIL_picture/image-20210626162128000.png)
 
 3. Repository default branch 변경 (settings -> repositories)
 
    - main -> master로 변경
 
-   ![img](210624_GitHub_intro.assets/tempsnip.png)
+
+![image-20210626162242234](TIL_picture/image-20210626162242234.png)
 
 ## **명령어**
 
