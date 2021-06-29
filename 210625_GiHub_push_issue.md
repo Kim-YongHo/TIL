@@ -10,7 +10,7 @@
 
 ## **해결책 1**
 
-- CTRL + ALT + DELETE 누르셔서 작업 관리자로 이동 후에 쭉  git-credential-manager-core 프로세스가 떠있을 강제로 작업 종료 누르면 로그인 창이 나옴
+- CTRL + ALT + DELETE 누르고 작업 관리자로 이동 후에 쭉  git-credential-manager-core 프로세스가 떠있을 강제로 작업 종료 누르면 로그인 창이 나옴
 
 ![image-20210626161821110](TIL_picture/image-20210626161821110.png)
 
