@@ -237,3 +237,7 @@ foo & bar
 
   - `create mode 100644 bar.txt` 가 추가된 것을 확인
   - commit은 새로 추가되지 않았음
+  
+  ---
+  
+  
