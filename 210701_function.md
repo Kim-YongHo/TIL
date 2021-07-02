@@ -156,11 +156,48 @@ print(type(multi_return())) ## 동시에 return 할 경우 data type은 tuple
 - **kwargs
 
   - KeyWord arguments의 약자
+  
   - key=value 값을 받음
+  
+    ```
+    def info(**kesthd):
+    
+    
+    info(id = 'abcd', name = 'kim') ##인수2개 딕셔너리
+    info(id = 'abcd', name = 'lee', age = 30) ##인수3개 딕셔너리
+    #info(1='abc') 
+    #에러 발생 손으로 딕셔너리를 만들 때 key값으로 정수를 사용가능 하지만 함수에서 불가능
+    ```
 
 ---
 
 ## 위치 인수 (position arguments)
 
 - 함수 호출 시 위치에 의하여 구별하는 방식
+
 - 매개변수의 순서대로 인수를 전달하는 방식
+
+  ```
+  def student_info(name, age, gender):
+      student = {
+          'name' : name,
+          'age' : age,
+          'gender' : gender
+      }
+      return student
+  
+  temp = student_info('다혜', 30, 'w')
+  print(temp)
+  
+  temp = student_info(name='다영', age=30, gender='w')
+  print(temp)
+  
+  temp = student_info('다혜', gender='w', age=28)
+  print(temp)
+  
+  #temp = student_info(name='다호', 25, gender=27) ##에러 발생 위치 인수를 먼저 써야함
+  #print(temp)
+  ```
+
+---
+
