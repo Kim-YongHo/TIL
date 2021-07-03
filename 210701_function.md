@@ -212,7 +212,7 @@ students = [
     { "name":"변학도","korean":98, "math":92,"english":96, "science":92},
     {"name":"박지성","korean":95, "math":98,"english":98, "science":98},
     {"name":"류현진","korean":94, "math":88,"english":92, "science":92}
-]
+] ### 딕셔너리를 리스트로 묶음 형태
 
 def get_student_subinfo(std_list):
     name = std_list['name']
