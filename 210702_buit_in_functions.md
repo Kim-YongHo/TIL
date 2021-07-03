@@ -8,7 +8,7 @@
 
 - abs(x) - x의 절대값 반환
 
-- all(iterable) - 모든 요소가 참이면 True 아니면 False 반환
+- all(iterable) - 모든 요소가 참이면 True 아니면 False 반환 (0이 아니면 참)
 
   ~~~
   	print(all([1,2,3,4])) #true
@@ -53,4 +53,6 @@
   	#(2, 1) 튜플 형태
   ~~~
 
-  
+
+---
+
