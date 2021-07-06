@@ -157,12 +157,8 @@
 - sum(iterable) - iterable의 모든 요소의 합 반환
 
   ```python
-  print(sum([1,2,3,4,5])) #15
+  print(sum([1,2,3,4,5])) #1
   ```
-
-  
-
-
 
 ---
 
