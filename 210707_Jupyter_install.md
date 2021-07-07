@@ -11,15 +11,15 @@
 
 - 크롬을 기본 웹브라운저로 선택
 
-![image-20210707190010277](C:\Users\ashor\Desktop\study\Daily\TIL\TIL_picture\image-20210707190010277.png)
+![image-20210707192929310](TIL_picture/image-20210707192929310.png)
 
 - 쥬피터 경로에 가서 .py 이하 적혀있는 부분 삭제
 
-![image-20210707190327047](C:\Users\ashor\Desktop\study\Daily\TIL\TIL_picture\image-20210707190327047.png)
+![image-20210707192956729](TIL_picture/image-20210707192956729.png)
 
 - Python 파일에 열고 경로 수정 후 저장하는 작업 필요 (ex C:\DataScience)
 
 - 쥬피터 실행
 
-  ![image-20210707190116191](C:\Users\ashor\Desktop\study\Daily\TIL\TIL_picture\image-20210707190116191.png)
+  ![image-20210707193013033](TIL_picture/image-20210707193013033.png)
 
