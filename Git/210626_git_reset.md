@@ -6,11 +6,11 @@
 
 - git reset 설명 이미지
 
-  ![image-20210626170944475](TIL_picture/image-20210626170944475.png)
+  ![image-20210626170944475](picture/image-20210626170944475.png)
 
-  ![image-20210626171003223](TIL_picture/image-20210626171003223.png)
+  ![image-20210626171003223](picture/image-20210626171003223.png)
 
-  ![image-20210626171030813](TIL_picture/image-20210626171030813.png)
+  ![image-20210626171030813](picture/image-20210626171030813.png)
 
 ---
 
@@ -69,7 +69,7 @@ nothing to commit, working tree clean
 
 git reflog를 활용하면 이때까지 HEAD가 가르켰던 커밋 아이디가 모두 나온다.
 
-![image-20210626171059707](TIL_picture/image-20210626171059707.png)
+![image-20210626171059707](picture/image-20210626171059707.png)
 
 이를 통해서 커밋 아이디를 찾고, `git reset --hard 커밋아이디` 를 활용하면 코드를 복구할 수 있다.
 
@@ -109,4 +109,4 @@ $ git log --oneline
 
 ------
 
-![image-20210626171132482](TIL_picture/image-20210626171132482.png)
+![image-20210626171132482](picture/image-20210626171132482.png)

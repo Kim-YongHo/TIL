@@ -20,13 +20,13 @@ https://startbootstrap.com/
 
 Startbootstap → themes 메뉴 → portfolio-resume 메뉴 - CLARENCE TAYLOR - 다운 받기
 
-![image-20210626171227303](TIL_picture/image-20210626171227303.png)
+![image-20210626171227303](picture/image-20210626171227303.png)
 
-![image-20210626171255267](TIL_picture/image-20210626171255267.png)
+![image-20210626171255267](picture/image-20210626171255267.png)
 
 ### 원하는 폴더에 압축을 푼다!
 
-![image-20210626171321902](TIL_picture/image-20210626171321902.png)
+![image-20210626171321902](picture/image-20210626171321902.png)
 
 git bash here 를 이용하거나 macOS의 경우 터미널의 cd 커맨드를 이용해서, 파일이 있는 폴더로 이동
 
@@ -42,19 +42,19 @@ git push --set-upstream origin master
 
 성공했다면 Github 레포지토리에 아래와 같이 출력 (파일에 따라 다름)
 
-![image-20210626171401986](TIL_picture/image-20210626171401986.png)
+![image-20210626171401986](picture/image-20210626171401986.png)
 
 ### Github - Settings - Pages 클릭
 
-![image-20210626171428336](TIL_picture/image-20210626171428336.png)
+![image-20210626171428336](picture/image-20210626171428336.png)
 
 ### 아래처럼 브랜치 선택 후 Save로 저장
 
-![image-20210626171450623](TIL_picture/image-20210626171450623.png)
+![image-20210626171450623](picture/image-20210626171450623.png)
 
 ### 아래처럼 뜨면 완료
 
-![image-20210626171515455](TIL_picture/image-20210626171515455.png)
+![image-20210626171515455](picture/image-20210626171515455.png)
 
 # 추후 수정
 
@@ -62,7 +62,7 @@ vscode에서 `ctrl + f` 찾기 누르고, 왼쪽 화살표 아이콘 누르신�
 
 (웹 페이지는 HTML, CSS JavaScript를 활용해서 제작)
 
-![image-20210626171607861](TIL_picture/image-20210626171607861.png)
+![image-20210626171607861](picture/image-20210626171607861.png)
 
 
 

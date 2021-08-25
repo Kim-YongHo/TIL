@@ -171,27 +171,29 @@
 
 ## **Work**
 
-![image-20210626164247110](C:\Users\USER-PC\Desktop\IT\Study\TIL\TIL_picture\image-20210626164247110.png)
+![image-20210626164247110](picture\image-20210626164247110.png)
 
-![image-20210626164307554](C:\Users\USER-PC\Desktop\IT\Study\TIL\TIL_picture\image-20210626164307554.png)
+![image-20210626164307554](picture\image-20210626164307554.png)
 
-![image-20210626164327681](C:\Users\USER-PC\Desktop\IT\Study\TIL\TIL_picture\image-20210626164327681.png)
 
-![image-20210626164344993](C:\Users\USER-PC\Desktop\IT\Study\TIL\TIL_picture\image-20210626164344993.png)
 
-![image-20210626164400632](C:\Users\USER-PC\Desktop\IT\Study\TIL\TIL_picture\image-20210626164400632.png)
+![image-20210626164327681](picture\image-20210626164327681.png)
+
+![image-20210626164344993](picture\image-20210626164344993.png)
+
+![image-20210626164400632](picture\image-20210626164400632.png)
 
 ---
 
 ## **Home**
 
-![image-20210626164519341](C:\Users\USER-PC\Desktop\IT\Study\TIL\TIL_picture\image-20210626164519341.png)
+![image-20210626164519341](picture\image-20210626164519341.png)
 
-![image-20210626164553348](C:\Users\USER-PC\Desktop\IT\Study\TIL\TIL_picture\image-20210626164553348.png)
+![image-20210626164553348](picture\image-20210626164553348.png)
 
-![image-20210626164623051](C:\Users\USER-PC\Desktop\IT\Study\TIL\TIL_picture\image-20210626164623051.png)
+![image-20210626164623051](picture\image-20210626164623051.png)
 
-![image-20210626164701531](C:\Users\USER-PC\Desktop\IT\Study\TIL\TIL_picture\image-20210626164701531.png)
+![image-20210626164701531](picture\image-20210626164701531.png)
 
 ---
 

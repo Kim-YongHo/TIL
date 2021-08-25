@@ -1,6 +1,6 @@
 ## **발생이슈**
 
-![image-20210626161716950](TIL_picture/image-20210626161716950.png)
+![image-20210626161716950](picture/image-20210626161716950.png)
 
 - git push를 하면 아무 일도 일어나지 않고 진행되지 않는 현상
 
@@ -12,7 +12,7 @@
 
 - CTRL + ALT + DELETE 누르고 작업 관리자로 이동 후에 쭉  git-credential-manager-core 프로세스가 떠있을 강제로 작업 종료 누르면 로그인 창이 나옴
 
-![image-20210626161821110](TIL_picture/image-20210626161821110.png)
+![image-20210626161821110](picture/image-20210626161821110.png)
 
 ---
 
